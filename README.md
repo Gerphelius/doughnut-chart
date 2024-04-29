@@ -1,3 +1,3 @@
 # doughnut-chart
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/Gerphelius/doughnut-chart)
+Doughnut chart from ng2-charts with arcs shadow and equal spacing between lines
